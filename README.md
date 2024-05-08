@@ -1,4 +1,4 @@
-  Word Count Program Using Map And Reduce
+# EXNO 6A-  Word Count Program Using Map And Reduce
 
 
 
